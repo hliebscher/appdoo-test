@@ -1,4 +1,4 @@
-Olympiade,Jahr,Ort,Länder,Sportler
+Olympiad,Year,Host city,Nations,Athletes
 XXXI,2016,Rio,207,11238
 XXX,2012,London,205,10500
 XXIX,2008,Beijing,204,10942
